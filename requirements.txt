@@ -17,3 +17,4 @@ pandas
 python-dotenv
 tqdm
 unstructured
+protobuf==3.20.3
