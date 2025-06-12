@@ -8,6 +8,7 @@ langchain-community
 langchain-huggingface
 langchainhub
 langchain-core
+langchain-chroma
 langchain-groq
 chromadb
 sentence-transformers
