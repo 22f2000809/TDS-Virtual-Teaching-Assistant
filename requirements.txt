@@ -5,6 +5,7 @@ streamlit
 langchain
 langgraph
 langchain-community
+langchain-huggingface
 langchainhub
 langchain-core
 langchain-groq
