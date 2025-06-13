@@ -3,6 +3,11 @@ langchain
 langchain-community
 langchain-groq
 langchain-huggingface
-chromadb
 sentence-transformers
 langgraph
+streamlit-chromadb-connection
+unstructured
+markdown
+jq
+tqdm
+transformers
