@@ -10,7 +10,7 @@ langchainhub
 langchain-core
 langchain-chroma
 langchain-groq
-faiss-gpu
+faiss
 sentence-transformers
 unstructured
 pandas
