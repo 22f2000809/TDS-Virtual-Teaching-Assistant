@@ -10,12 +10,10 @@ langchainhub
 langchain-core
 langchain-chroma
 langchain-groq
-chromadb
+faiss-gpu
 sentence-transformers
 unstructured
 pandas
 python-dotenv
 tqdm
 unstructured
-protobuf==3.20.3
-duckdb
